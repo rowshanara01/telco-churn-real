@@ -110,7 +110,7 @@ Analyze:
 
 Identify whether the model performs differently for different customer groups.
 
-### 8. Model Card
+### 8. Model Card ###
 
 Generate a MODEL_CARD.md file documenting:
 
