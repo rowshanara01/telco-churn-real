@@ -6,7 +6,7 @@
 
 Unlike previous synthetic projects, this project uses real-world data, which is often messy and contains weak or imperfect signals. A good AUC score is around **0.84**, not 1.0.
 
-## How to Run the Project
+## How to Run the Project ##
 
 Install the dependencies:
 
