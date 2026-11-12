@@ -41,7 +41,7 @@ If the dataset is missing, download it first:
 
 python download_data.py
 
-## What Real-World Engineers Do in This Project
+## What Real-World Engineers Do in This Project ##
 
 ### 1. Data Quality Checks
 
