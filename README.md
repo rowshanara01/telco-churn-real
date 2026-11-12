@@ -92,7 +92,7 @@ Expected Value = P(Churn) × Save Rate × Customer Value - Offer Cost
 
 This helps identify customers who are worth targeting with retention campaigns.
 
-### 6. Per-Customer Explanations
+### 6. Per-Customer Explanations ##3
 
 Explain why an individual customer has a high churn risk.
 
