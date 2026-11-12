@@ -49,7 +49,7 @@ python download_data.py
 - Check for duplicate records.
 - Prevent data leakage by excluding customerID and gender from model training.
 
-### 2. Establish a Baseline Before Training
+### 2. Establish a Baseline Before Training ###
 
 Start with a simple rule:
 
