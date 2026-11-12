@@ -82,7 +82,7 @@ If the model predicts a 60% churn probability for a group of customers, approxim
 
 Check the calibration table to evaluate this.
 
-### 5. Business Value: Focus on Money, Not Just Accuracy
+### 5. Business Value: Focus on Money, Not Just Accuracy ##
 
 The objective is not simply to achieve high accuracy. The objective is to generate business value.
 
