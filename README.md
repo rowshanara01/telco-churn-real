@@ -59,7 +59,7 @@ This baseline achieves an AUC of approximately 0.74.
 
 The goal is to determine how much better the machine learning model performs compared to this simple rule.
 
-### 3. Compare Simple and Complex Models
+#### 3. Compare Simple and Complex Models ####
 
 Compare different machine learning algorithms:
 
