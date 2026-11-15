@@ -43,7 +43,7 @@ python download_data.py
 
 ## What Real-World Engineers Do in This Project ##
 
-### 1. Data Quality Checks
+#### 1. Data Quality Checks ####
 
 - Identify 11 blank strings in TotalCharges (all belong to customers with tenure = 0).
 - Check for duplicate records.
