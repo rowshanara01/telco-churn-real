@@ -98,7 +98,7 @@ Explain why an individual customer has a high churn risk.
 
 Use the exact Logistic Regression feature contributions to identify which factors increase or decrease that customer's predicted risk.
 
-### 7. Fairness Audit
+#### 7. Fairness Audit ####
 
 Evaluate model performance across different demographic groups.
 
