@@ -72,7 +72,7 @@ The performance difference is very small.
 
 Therefore, choose Logistic Regression for production because it is simpler, easier to explain, and more interpretable.
 
-### 4. Model Calibration
+### 4. Model Calibration #####
 
 Check whether the predicted probabilities reflect actual customer behavior.
 
